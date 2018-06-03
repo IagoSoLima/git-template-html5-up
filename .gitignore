@@ -1,2 +1,5 @@
+/assets
+/images
 *.txt
-*.ftpconfig
+.ftpconfig
+.gitignore
